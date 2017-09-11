@@ -1,0 +1,3 @@
+rootProject.name = 'PatientTracker_Firebase'
+
+include ':app'
